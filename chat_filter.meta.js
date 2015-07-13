@@ -1,10 +1,8 @@
 // ==UserScript==
-// @name        Twitch Plays Pokemon Chat Filter
-// @namespace   https://github.com/jpgohlke/twitch-chat-filter
+// @name        Zack0114 Chat Filter
 // @description Hide input commands from the chat.
 
-// @include     /^https?://(www|beta)\.twitch\.tv\/(twitchplayspokemon(/(chat.*)?)?|chat\/.*channel=twitchplayspokemon.*)$/
-
+// @include     http://www.twitch.tv/zack0114
 // @version     3.2
 // @updateURL   http://jpgohlke.github.io/twitch-chat-filter/chat_filter.meta.js
 // @downloadURL http://jpgohlke.github.io/twitch-chat-filter/chat_filter.user.js
